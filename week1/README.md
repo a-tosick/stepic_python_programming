@@ -2,7 +2,7 @@
 My problems in online-course python programming 
 https://stepik.org/course/67
 
-## Part #1
+## Week #1
 Operators
 Variables
 Data types

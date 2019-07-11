@@ -2,7 +2,7 @@
 My problems in online-course python programming 
 https://stepik.org/course/67
 
-## Part #2
+## Week #2
 Cycles
 Strings
 Lists
