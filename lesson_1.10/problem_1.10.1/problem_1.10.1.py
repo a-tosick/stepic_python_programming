@@ -1,9 +1,9 @@
-A = int(input())
+п»їA = int(input())
 B = int(input())
 H = int(input())
 if H < A:
-    print("Недосып")
+    print("РќРµРґРѕСЃС‹Рї")
 elif H > B:
-    print("Пересып")
+    print("РџРµСЂРµСЃС‹Рї")
 else:
-    print("Это нормально")
+    print("Р­С‚Рѕ РЅРѕСЂРјР°Р»СЊРЅРѕ")
